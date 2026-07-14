@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Vijayalaxmi Kamble 🎓 Computer Science Engineering Student 💻 Passionate about Web Development, Java Development, and Problem Solving  Pursuing B.Tech in Computer Science & Engineering at N. K. Orchid College of Engineering & Technology, Solapur. Improving DSA & System Design skills
+Hi 👋 I'm Dhanshri Bansode🎓 Computer Science Engineering Student 💻 Passionate about Web Development, Java Development, and Problem Solving  Pursuing B.Tech in Computer Science & Engineering at N. K. Orchid College of Engineering & Technology, Solapur. Improving DSA and web developing skills.
 
 
 ## 🌐 Socials:
